@@ -1,5 +1,17 @@
+fav food ----------
 apple
 mango
 banana
 gauva
 pineapple
+
+
+
+fav movies -----------
+avengers
+pirates of caribain
+limitless
+lucy
+godfather
+bahubali
+kathi
